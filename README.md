@@ -40,8 +40,7 @@ detection rules was the easier half of the exercise; diagnosing why data wasn't
 arriving in the first place was the real engineering work.
 
 ## Further Reading
-Full narrative write-up: [Read on Medium]
-(https://medium.com/@mohamedkhattab1892/when-healthy-doesnt-mean-working-building-a-detection-pipeline-on-the-elastic-stack-c1a837601314?sharedUserId=mohamedkhattab1892)
+Full narrative write-up: [READ ON MEDIUM](https://medium.com/@mohamedkhattab1892/when-healthy-doesnt-mean-working-building-a-detection-pipeline-on-the-elastic-stack-c1a837601314?sharedUserId=mohamedkhattab1892)
 ---
 *This project was built as part of the CyManII OT Cybersecurity Bootcamp
 (ISCS-3523 Lab) in a lab environment.*
